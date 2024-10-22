@@ -1,0 +1,78 @@
+Array
+(
+    [0] => Array
+        (
+            [DEPARTMENT_NAME] => Finance
+            [TOTAL_EMPLOYEES] => 2010
+            [MIN_SALARY] => 33065
+            [MAX_SALARY] => 119983
+        )
+
+    [1] => Array
+        (
+            [DEPARTMENT_NAME] => Sales
+            [TOTAL_EMPLOYEES] => 2030
+            [MIN_SALARY] => 30011
+            [MAX_SALARY] => 119998
+        )
+
+    [2] => Array
+        (
+            [DEPARTMENT_NAME] => Marketing
+            [TOTAL_EMPLOYEES] => 2021
+            [MIN_SALARY] => 30090
+            [MAX_SALARY] => 119941
+        )
+
+    [3] => Array
+        (
+            [DEPARTMENT_NAME] => Information Technology
+            [TOTAL_EMPLOYEES] => 1976
+            [MIN_SALARY] => 33398
+            [MAX_SALARY] => 119979
+        )
+
+    [4] => Array
+        (
+            [DEPARTMENT_NAME] => Human Resources
+            [TOTAL_EMPLOYEES] => 1969
+            [MIN_SALARY] => 9888
+            [MAX_SALARY] => 119970
+        )
+
+)
+Row: Array
+(
+    [DEPARTMENT_NAME] => Finance
+    [TOTAL_EMPLOYEES] => 2010
+    [MIN_SALARY] => 33065
+    [MAX_SALARY] => 119983
+)
+Row: Array
+(
+    [DEPARTMENT_NAME] => Sales
+    [TOTAL_EMPLOYEES] => 2030
+    [MIN_SALARY] => 30011
+    [MAX_SALARY] => 119998
+)
+Row: Array
+(
+    [DEPARTMENT_NAME] => Marketing
+    [TOTAL_EMPLOYEES] => 2021
+    [MIN_SALARY] => 30090
+    [MAX_SALARY] => 119941
+)
+Row: Array
+(
+    [DEPARTMENT_NAME] => Information Technology
+    [TOTAL_EMPLOYEES] => 1976
+    [MIN_SALARY] => 33398
+    [MAX_SALARY] => 119979
+)
+Row: Array
+(
+    [DEPARTMENT_NAME] => Human Resources
+    [TOTAL_EMPLOYEES] => 1969
+    [MIN_SALARY] => 9888
+    [MAX_SALARY] => 119970
+)
